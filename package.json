@@ -1,0 +1,24 @@
+{
+  "name": "hardhat-v3-deploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "hardhat": "2.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@uniswap/hardhat-v3-deploy": "^0.1.1",
+    "@uniswap/v3-core": "1.0.0",
+    "@uniswap/v3-periphery": "1.0.1",
+    "ethers": "^5.0.0"
+  }
+}
