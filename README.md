@@ -18,8 +18,8 @@ npm install
 
 This command will:
 
-- Install the (uniswap V3 core and periphery)[https://docs.uniswap.org/contracts/v3/overview] contract files.
-- Install the (uniswap V3 hardhat deploy scripts)[https://github.com/Uniswap/hardhat-v3-deploy].
+- Install the [uniswap V3 core and periphery](https://docs.uniswap.org/contracts/v3/overview) contract files.
+- Install the [uniswap V3 hardhat deploy scripts](https://github.com/Uniswap/hardhat-v3-deploy).
 
 Great! Now, to deploy the contracts:
 
