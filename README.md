@@ -24,7 +24,7 @@ This command will:
 Great! Now, to deploy the contracts:
 
 ```sh
-npx run hardhat deploy-uniswap
+npx hardhat deploy-uniswap
 ```
 
 This command will:
